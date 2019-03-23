@@ -1,4 +1,4 @@
-# Notes on gettinng up annd runninng
+# Notes on getting up annd running
 Start docker with the following commands
   1. ```docker run -v $HOME/git/annotation-data/images:/opt/solr/data/maars -p 8983:8983 dermotte/liresolr:latest```
   
